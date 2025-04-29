@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Universite Abdelmalek Essaadi                                                                                                                             |
+|                                                                Annee Universitaire :2024/2025                                                             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ecole Nationale des Sciences Appliquees Tetouan
+                                                                ----------------------------------
+                                                               |   RAPPORT ACADEMIQUE COMPLET    |
+                                                                ----------------------------------
+                                                                      -----------------------
+                                                                      |      SEMESTRE 1     |
+                                                                      -----------------------
+
+Apogee                       	: 1
+Nom                            	: tafraouti
+Prenom                         	: sanae
+Age                            	: 20
+
+Inscrite en 1re annee du Cycle d'Ingenieur : Genie Informatique 1
+A obtenu les notes suivantes   	:
+-------------------------------------------------------------------------------------------------------
+                                    	|Note/Bareme	|Resultat         	|Semestre             |
+------------------------------------------------------------------------------------------------------|
+Architecture des Ordinateurs        	| 18.00/20   	| Valide        	| S1 2024/25          |
+Bases de donnees Relationnelle      	| 12.00/20   	| Valide        	| S1 2024/25          |
+Structure de Donnees en C           	| 15.00/20   	| Valide        	| S1 2024/25          |
+Theorie des Graphes                 	| 12.00/20   	| Valide        	| S1 2024/25          |
+Reseaux informatiques               	| 11.00/20   	| Non valide        	| S1 2024/25          |
+-------------------------------------------------------------------------------------------------------
+
+Moyenne generale                    	: 13.60/20   	  Admis (Assez Bien)
+
+Moyenne generale de la classe       	: 13.41/20
+ 
+Meilleure moyenne                   	: 13.80/20 (yaakoub hamani)
+
+Pire moyenne                        	: 13.05/20 (mohamed tafraouti)

@@ -1,0 +1,192 @@
+===================================================================================================================================================================================================================================================
+                                              LA LISTE DES RAPPORTS ACADEMIQUES DES ETUDIANTS 
+================================================================================================================================================================================================================================================
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Universite Abdelmalek Essaadi                                                                                                                             |
+|                                                                Annee Universitaire :2024/2025                                                             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ecole Nationale des Sciences Appliquees Tetouan
+                                                                ----------------------------------
+                                                               |   RAPPORT ACADEMIQUE COMPLET    |
+                                                                ----------------------------------
+                                                                      -----------------------
+                                                                      |      SEMESTRE 1     |
+                                                                      -----------------------
+
+Apogee                       	: 1
+Nom                            	: tafraouti
+Prenom                         	: sanae
+Age                            	: 20
+
+Inscrite en 1re annee du Cycle d'Ingenieur : Genie Informatique 1
+A obtenu les notes suivantes   	:
+-------------------------------------------------------------------------------------------------------
+                                    	|Note/Bareme	|Resultat         	|Semestre             |
+------------------------------------------------------------------------------------------------------|
+Architecture des Ordinateurs        	| 18.00/20   	| Valide        	| S1 2024/25          |
+Bases de donnees Relationnelle      	| 12.00/20   	| Valide        	| S1 2024/25          |
+Structure de Donnees en C           	| 15.00/20   	| Valide        	| S1 2024/25          |
+Theorie des Graphes                 	| 12.00/20   	| Valide        	| S1 2024/25          |
+Reseaux informatiques               	| 11.00/20   	| Non valide        	| S1 2024/25          |
+-------------------------------------------------------------------------------------------------------
+
+Moyenne generale                    	: 13.60/20   	  Admis (Assez Bien)
+
+Moyenne generale de la classe       	: 13.41/20
+
+Meilleure moyenne                   	: 13.80/20 (yaakoub hamani)
+
+Pire moyenne                        	: 13.05/20 (mohamed tafraouti)
+
+
+====================================================================================================================================================================================================================================
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Universite Abdelmalek Essaadi                                                                                                                             |
+|                                                                Annee Universitaire :2024/2025                                                             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ecole Nationale des Sciences Appliquees Tetouan
+                                                                ----------------------------------
+                                                               |   RAPPORT ACADEMIQUE COMPLET    |
+                                                                ----------------------------------
+                                                                      -----------------------
+                                                                      |      SEMESTRE 1     |
+                                                                      -----------------------
+
+Apogee                       	: 2
+Nom                            	: hamani
+Prenom                         	: yaakoub
+Age                            	: 23
+
+Inscrite en 1re annee du Cycle d'Ingenieur : Genie Informatique 1
+A obtenu les notes suivantes   	:
+-------------------------------------------------------------------------------------------------------
+                                    	|Note/Bareme	|Resultat         	|Semestre             |
+------------------------------------------------------------------------------------------------------|
+Architecture des Ordinateurs        	| 10.75/20   	| Non valide        	| S1 2024/25          |
+Bases de donnees Relationnelle      	| 12.00/20   	| Valide        	| S1 2024/25          |
+Structure de Donnees en C           	| 14.00/20   	| Valide        	| S1 2024/25          |
+Theorie des Graphes                 	| 18.00/20   	| Valide        	| S1 2024/25          |
+Reseaux informatiques               	| 14.25/20   	| Valide        	| S1 2024/25          |
+-------------------------------------------------------------------------------------------------------
+
+Moyenne generale                    	: 13.80/20   	  Admis (Assez Bien)
+
+Moyenne generale de la classe       	: 13.41/20
+
+Meilleure moyenne                   	: 13.80/20 (yaakoub hamani)
+
+Pire moyenne                        	: 13.05/20 (mohamed tafraouti)
+
+
+====================================================================================================================================================================================================================================
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Universite Abdelmalek Essaadi                                                                                                                             |
+|                                                                Annee Universitaire :2024/2025                                                             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ecole Nationale des Sciences Appliquees Tetouan
+                                                                ----------------------------------
+                                                               |   RAPPORT ACADEMIQUE COMPLET    |
+                                                                ----------------------------------
+                                                                      -----------------------
+                                                                      |      SEMESTRE 1     |
+                                                                      -----------------------
+
+Apogee                       	: 4
+Nom                            	: tafraouti
+Prenom                         	: mohamed
+Age                            	: 20
+
+Inscrite en 1re annee du Cycle d'Ingenieur : Genie Informatique 1
+A obtenu les notes suivantes   	:
+-------------------------------------------------------------------------------------------------------
+                                    	|Note/Bareme	|Resultat         	|Semestre             |
+------------------------------------------------------------------------------------------------------|
+Architecture des Ordinateurs        	| 12.27/20   	| Valide        	| S1 2024/25          |
+Bases de donnees Relationnelle      	| 12.00/20   	| Valide        	| S1 2024/25          |
+Structure de Donnees en C           	| 16.00/20   	| Valide        	| S1 2024/25          |
+Theorie des Graphes                 	| 13.00/20   	| Valide        	| S1 2024/25          |
+Reseaux informatiques               	| 12.00/20   	| Valide        	| S1 2024/25          |
+-------------------------------------------------------------------------------------------------------
+
+Moyenne generale                    	: 13.05/20   	  Admis (Assez Bien)
+
+Moyenne generale de la classe       	: 13.41/20
+
+Meilleure moyenne                   	: 13.80/20 (yaakoub hamani)
+
+Pire moyenne                        	: 13.05/20 (mohamed tafraouti)
+
+
+====================================================================================================================================================================================================================================
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Universite Abdelmalek Essaadi                                                                                                                             |
+|                                                                Annee Universitaire :2024/2025                                                             |
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Ecole Nationale des Sciences Appliquees Tetouan
+                                                                ----------------------------------
+                                                               |   RAPPORT ACADEMIQUE COMPLET    |
+                                                                ----------------------------------
+                                                                      -----------------------
+                                                                      |      SEMESTRE 1     |
+                                                                      -----------------------
+
+Apogee                       	: 5
+Nom                            	: akrami
+Prenom                         	: karima
+Age                            	: 20
+
+Inscrite en 1re annee du Cycle d'Ingenieur : Genie Informatique 1
+A obtenu les notes suivantes   	:
+-------------------------------------------------------------------------------------------------------
+                                    	|Note/Bareme	|Resultat         	|Semestre             |
+------------------------------------------------------------------------------------------------------|
+Architecture des Ordinateurs        	| 15.20/20   	| Valide        	| S1 2024/25          |
+Bases de donnees Relationnelle      	| 10.00/20   	| Non valide        	| S1 2024/25          |
+Structure de Donnees en C           	| 12.25/20   	| Valide        	| S1 2024/25          |
+Theorie des Graphes                 	| 11.50/20   	| Non valide        	| S1 2024/25          |
+Reseaux informatiques               	| 17.00/20   	| Valide        	| S1 2024/25          |
+-------------------------------------------------------------------------------------------------------
+
+Moyenne generale                    	: 13.19/20   	  Admis (Assez Bien)
+
+Moyenne generale de la classe       	: 13.41/20
+
+Meilleure moyenne                   	: 13.80/20 (yaakoub hamani)
+
+Pire moyenne                        	: 13.05/20 (mohamed tafraouti)
+
+
+====================================================================================================================================================================================================================================
+
+
+Meilleure moyenne                   	: 13.80/20 (yaakoub hamani)
+
+Pire moyenne                        	: 13.05/20 (mohamed tafraouti)
+
+Moyenne generale de la classe       	: 13.41/20
+
+Meilleur etudiant par module:
+La signification de chaque module :
+AO : Architecture des Ordinateurs, BD : Bases de Donnees Relationnelles, C : Structure de Donnees en C, ThG : Theorie des Graphes, RI : Reseaux Informatiques.
+AO	: Apogee 	: 1 , Nom et Prenom 	: tafraouti sanae     , Note 	: 18.00
+BD	: Apogee 	: 1 , Nom et Prenom 	: tafraouti sanae     , Note 	: 12.00
+C	: Apogee 	: 4 , Nom et Prenom 	: tafraouti mohamed     , Note 	: 16.00
+ThG	: Apogee 	: 2 , Nom et Prenom 	: hamani yaakoub     , Note 	: 18.00
+RI	: Apogee 	: 5 , Nom et Prenom 	: akrami karima     , Note 	: 17.00
+
+====================================================================================================================================================================================================================================
+

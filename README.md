@@ -1,7 +1,7 @@
 # Système de Gestion des Étudiants - ENSA Tétouan
 
 ## Description Générale
-Un système de gestion académique complet développé en C pour l'École Nationale des Sciences Appliquées de Tétouan. Le système permet une gestion efficace des données des étudiants en première année du cycle d'ingénieur en Génie Informatique, avec un focus particulier sur le suivi des performances académiques.
+Un système de gestion académique complet développé en C. Le système permet une gestion efficace des données des étudiants en première année du cycle d'ingénieur en Génie Informatique, avec un focus particulier sur le suivi des performances académiques.
 
 ## Architecture Technique
 
@@ -143,12 +143,12 @@ Pire moyenne : 13.05/20
 
 ### Compilation
 ```bash
-gcc main.c -o gestion_etudiants
+gcc main.c -o main
 ```
 
 ### Exécution
 ```bash
-./gestion_etudiants
+main.exe
 ```
 
 ## Maintenance et Support
